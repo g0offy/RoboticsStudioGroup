@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-b4a1dcc2fa566fa26410.json",
+					"jsonFile" : "directory-.-Debug-3b1d154b687b47812c45.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.12"
@@ -30,7 +30,7 @@
 					[
 						0
 					],
-					"name" : "week2",
+					"name" : "week5",
 					"targetIndexes" : 
 					[
 						0,
@@ -43,23 +43,23 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "laser_processing::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-laser_processing-Debug-ca1836ebe17bba3e2efb.json",
-					"name" : "laser_processing",
+					"id" : "scan_to_image_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scan_to_image_node-Debug-a29dd54f79648abdd7e8.json",
+					"name" : "scan_to_image_node",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "uninstall::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-uninstall-Debug-dc13610946d1a5b99242.json",
+					"jsonFile" : "target-uninstall-Debug-603f2bcd0f6e53f0708d.json",
 					"name" : "uninstall",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "week2_uninstall::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-week2_uninstall-Debug-f3f87a519a8be232b70b.json",
-					"name" : "week2_uninstall",
+					"id" : "week5_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-week5_uninstall-Debug-4f62e84103f04c7d262e.json",
+					"name" : "week5_uninstall",
 					"projectIndex" : 0
 				}
 			]
@@ -68,8 +68,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/uts/ros2_ws/src/week2/build",
-		"source" : "/home/uts/ros2_ws/src/week2"
+		"build" : "/home/uts/git/robotics_studio_classwork/sprint_2/week5/build",
+		"source" : "/home/uts/git/robotics_studio_classwork/sprint_2/week5"
 	},
 	"version" : 
 	{

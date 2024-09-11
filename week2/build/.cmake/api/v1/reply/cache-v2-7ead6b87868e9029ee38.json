@@ -71,7 +71,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/home/uts/ros2_ws/src/week2/build/test_results"
+			"value" : "/home/uts/git/robotics_studio_classwork/week2/build/test_results"
 		},
 		{
 			"name" : "BUILD_TESTING",
@@ -139,7 +139,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/uts/ros2_ws/src/week2/build"
+			"value" : "/home/uts/git/robotics_studio_classwork/week2/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -699,7 +699,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/uts/ros2_ws/src/week2"
+			"value" : "/home/uts/git/robotics_studio_classwork/week2"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -2871,7 +2871,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/uts/ros2_ws/src/week2/build"
+			"value" : "/home/uts/git/robotics_studio_classwork/week2/build"
 		},
 		{
 			"name" : "week2_IS_TOP_LEVEL",
@@ -2895,7 +2895,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/uts/ros2_ws/src/week2"
+			"value" : "/home/uts/git/robotics_studio_classwork/week2"
 		},
 		{
 			"name" : "xmllint_BIN",

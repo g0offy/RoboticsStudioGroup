@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/uts/ros2_ws/src/week2
+CMAKE_SOURCE_DIR = /home/uts/git/robotics_studio_classwork/week2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/uts/ros2_ws/src/week2/build
+CMAKE_BINARY_DIR = /home/uts/git/robotics_studio_classwork/week2/build
 
 # Utility rule file for week2_uninstall.
 
@@ -67,7 +67,7 @@ include CMakeFiles/week2_uninstall.dir/compiler_depend.make
 include CMakeFiles/week2_uninstall.dir/progress.make
 
 CMakeFiles/week2_uninstall:
-	/usr/bin/cmake -P /home/uts/ros2_ws/src/week2/build/ament_cmake_uninstall_target/ament_cmake_uninstall_target.cmake
+	/usr/bin/cmake -P /home/uts/git/robotics_studio_classwork/week2/build/ament_cmake_uninstall_target/ament_cmake_uninstall_target.cmake
 
 week2_uninstall: CMakeFiles/week2_uninstall
 week2_uninstall: CMakeFiles/week2_uninstall.dir/build.make
@@ -82,6 +82,6 @@ CMakeFiles/week2_uninstall.dir/clean:
 .PHONY : CMakeFiles/week2_uninstall.dir/clean
 
 CMakeFiles/week2_uninstall.dir/depend:
-	cd /home/uts/ros2_ws/src/week2/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/uts/ros2_ws/src/week2 /home/uts/ros2_ws/src/week2 /home/uts/ros2_ws/src/week2/build /home/uts/ros2_ws/src/week2/build /home/uts/ros2_ws/src/week2/build/CMakeFiles/week2_uninstall.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/uts/git/robotics_studio_classwork/week2/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/uts/git/robotics_studio_classwork/week2 /home/uts/git/robotics_studio_classwork/week2 /home/uts/git/robotics_studio_classwork/week2/build /home/uts/git/robotics_studio_classwork/week2/build /home/uts/git/robotics_studio_classwork/week2/build/CMakeFiles/week2_uninstall.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/week2_uninstall.dir/depend
 

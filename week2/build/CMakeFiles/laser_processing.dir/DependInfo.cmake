@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/uts/ros2_ws/src/week2/src/laser_processing.cpp" "CMakeFiles/laser_processing.dir/src/laser_processing.cpp.o" "gcc" "CMakeFiles/laser_processing.dir/src/laser_processing.cpp.o.d"
+  "/home/uts/git/robotics_studio_classwork/week2/src/laser_processing.cpp" "CMakeFiles/laser_processing.dir/src/laser_processing.cpp.o" "gcc" "CMakeFiles/laser_processing.dir/src/laser_processing.cpp.o.d"
   )
 
 # Targets to which this target links.

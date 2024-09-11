@@ -44,7 +44,7 @@ private:
         combined_ranges.insert(combined_ranges.end(), part1.begin(), part1.end());
         combined_ranges.insert(combined_ranges.end(), part2.begin(), part2.end());
 
-        *scan_subset = *msg; // Copy the original message
+        scan_subset = msg; // Copy the original message
 
         scan_subset->ranges = std::move(combined_ranges); // std::vector<float>(msg->ranges.begin() + max_index, msg->ranges.begin() + min_index - 1);
         scan_subset->angle_min = start_angle;
