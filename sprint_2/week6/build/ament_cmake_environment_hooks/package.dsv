@@ -1,0 +1,4 @@
+source;share/week6/local_setup.bash
+source;share/week6/local_setup.dsv
+source;share/week6/local_setup.sh
+source;share/week6/local_setup.zsh

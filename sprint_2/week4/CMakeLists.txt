@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.8)
-project(tutorial_work)
+project(week4)
 
 if(CMAKE_COMPILER_IS_GNUCXX OR CMAKE_CXX_COMPILER_ID MATCHES "Clang")
   add_compile_options(-Wall -Wextra -Wpedantic)
@@ -29,18 +29,6 @@ ament_target_dependencies(state_estimation
   nav_msgs 
   tf2 
   tf2_geometry_msgs
-)
-
-# Add Executable Scan_To_Image
-add_executable(scan_to_image src/scan_to_image.cpp)
-ament_target_dependencies(scan_to_image 
-  rclcpp 
-  sensor_msgs 
-  geometry_msgs 
-  nav_msgs 
-  tf2 
-  tf2_geometry_msgs
-  OpenCV
 )
 
 
