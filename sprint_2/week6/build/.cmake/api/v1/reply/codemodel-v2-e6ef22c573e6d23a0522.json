@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-3b1d154b687b47812c45.json",
+					"jsonFile" : "directory-.-Debug-8783e044ecb30eebdd69.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.12"
@@ -30,7 +30,7 @@
 					[
 						0
 					],
-					"name" : "week5",
+					"name" : "week6",
 					"targetIndexes" : 
 					[
 						0,
@@ -43,23 +43,23 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "scan_to_image_node::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-scan_to_image_node-Debug-a29dd54f79648abdd7e8.json",
-					"name" : "scan_to_image_node",
+					"id" : "scan_matching_localiser::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-scan_matching_localiser-Debug-90135667211cab3d53b0.json",
+					"name" : "scan_matching_localiser",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "uninstall::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-uninstall-Debug-603f2bcd0f6e53f0708d.json",
+					"jsonFile" : "target-uninstall-Debug-ba34171602355809daa3.json",
 					"name" : "uninstall",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "week5_uninstall::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-week5_uninstall-Debug-4f62e84103f04c7d262e.json",
-					"name" : "week5_uninstall",
+					"id" : "week6_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-week6_uninstall-Debug-9f0093d209abb74d3f3b.json",
+					"name" : "week6_uninstall",
 					"projectIndex" : 0
 				}
 			]
@@ -68,8 +68,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/uts/git/robotics_studio_classwork/sprint_2/week5/build",
-		"source" : "/home/uts/git/robotics_studio_classwork/sprint_2/week5"
+		"build" : "/home/uts/git/robotics_studio_classwork/sprint_2/week6/build",
+		"source" : "/home/uts/git/robotics_studio_classwork/sprint_2/week6"
 	},
 	"version" : 
 	{

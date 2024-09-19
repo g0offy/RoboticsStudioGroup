@@ -16,7 +16,7 @@ set(_week6_CONFIG_INCLUDED TRUE)
 
 # output package information
 if(NOT week6_FIND_QUIETLY)
-  message(STATUS "Found week6: 0.0.0 (${week6_DIR})")
+  message(STATUS "Found week6: 0.0.1 (${week6_DIR})")
 endif()
 
 # warn when using a deprecated package
