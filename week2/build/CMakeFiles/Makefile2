@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/uts/git/robotics_studio_classwork/week2
+CMAKE_SOURCE_DIR = /home/uts/ros2_ws/src/week2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/uts/git/robotics_studio_classwork/week2/build
+CMAKE_BINARY_DIR = /home/uts/ros2_ws/src/week2/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -83,14 +83,14 @@ clean: CMakeFiles/laser_processing.dir/clean
 CMakeFiles/uninstall.dir/all: CMakeFiles/week2_uninstall.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/uninstall.dir/build.make CMakeFiles/uninstall.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/uninstall.dir/build.make CMakeFiles/uninstall.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/uts/git/robotics_studio_classwork/week2/build/CMakeFiles --progress-num= "Built target uninstall"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/uts/ros2_ws/src/week2/build/CMakeFiles --progress-num= "Built target uninstall"
 .PHONY : CMakeFiles/uninstall.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/uninstall.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/uts/git/robotics_studio_classwork/week2/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/uts/ros2_ws/src/week2/build/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/uninstall.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/uts/git/robotics_studio_classwork/week2/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/uts/ros2_ws/src/week2/build/CMakeFiles 0
 .PHONY : CMakeFiles/uninstall.dir/rule
 
 # Convenience name for target.
@@ -109,14 +109,14 @@ CMakeFiles/uninstall.dir/clean:
 CMakeFiles/week2_uninstall.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/week2_uninstall.dir/build.make CMakeFiles/week2_uninstall.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/week2_uninstall.dir/build.make CMakeFiles/week2_uninstall.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/uts/git/robotics_studio_classwork/week2/build/CMakeFiles --progress-num= "Built target week2_uninstall"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/uts/ros2_ws/src/week2/build/CMakeFiles --progress-num= "Built target week2_uninstall"
 .PHONY : CMakeFiles/week2_uninstall.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/week2_uninstall.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/uts/git/robotics_studio_classwork/week2/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/uts/ros2_ws/src/week2/build/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/week2_uninstall.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/uts/git/robotics_studio_classwork/week2/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/uts/ros2_ws/src/week2/build/CMakeFiles 0
 .PHONY : CMakeFiles/week2_uninstall.dir/rule
 
 # Convenience name for target.
@@ -135,14 +135,14 @@ CMakeFiles/week2_uninstall.dir/clean:
 CMakeFiles/laser_processing.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/laser_processing.dir/build.make CMakeFiles/laser_processing.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/laser_processing.dir/build.make CMakeFiles/laser_processing.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/uts/git/robotics_studio_classwork/week2/build/CMakeFiles --progress-num=1,2 "Built target laser_processing"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/uts/ros2_ws/src/week2/build/CMakeFiles --progress-num=1,2 "Built target laser_processing"
 .PHONY : CMakeFiles/laser_processing.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/laser_processing.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/uts/git/robotics_studio_classwork/week2/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/uts/ros2_ws/src/week2/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/laser_processing.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/uts/git/robotics_studio_classwork/week2/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/uts/ros2_ws/src/week2/build/CMakeFiles 0
 .PHONY : CMakeFiles/laser_processing.dir/rule
 
 # Convenience name for target.
